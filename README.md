@@ -1,4 +1,5 @@
 # Packet-Tracer-NAT-VLAN-Lab
+📄 [Ladda ner PDF-dokumentation](NAT-VLAN-Lab.pdf)
 
 Segmenterat nätverk med NAT och VLAN-routing
 
