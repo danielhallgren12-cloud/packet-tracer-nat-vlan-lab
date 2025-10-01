@@ -137,4 +137,4 @@ Filer i detta repo
 topologi.png – Skärmdump av nätverket
 konfig-router1.txt – Fullständig konfiguration för Router R1
 konfig-router2.txt – Fullständig konfiguration för Router R2
-nat-vlan-labb.pdf – Dokumentation i PDF-format
+NAT-VLAN-Lab.pdf – Dokumentation i PDF-format
